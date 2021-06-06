@@ -1,0 +1,11 @@
+{
+  "description": "Just My Personal Website",
+  "owner": {
+    "username": "justfaisa",
+    "email": "",
+    "twitter": "szhunz"
+  },
+  "record": {
+    "CNAME": "faisasite.justfaisa.repl.co"
+  }
+}
